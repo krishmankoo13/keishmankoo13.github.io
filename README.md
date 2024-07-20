@@ -6,4 +6,7 @@
 ### My Experience at the Induction Program at GNDEC, Ludhiana
 I recently attended the induction program at Guru Nanak Dev Engineering College (GNDEC), Ludhiana, and I wanted to share my experience with all of you. It was an incredible start to my journey here, and I learned so much from the various sessions and speakers who shared their valuable insights and experiences with us.
 
+#### Networking Opportunities
+One of the best parts of the induction program was the networking opportunities. We had special sessions where we could interact with peers, faculty, and industry experts. I got to ask questions, seek advice, and make valuable connections that I believe will help me throughout my time at GNDEC.
+
 
